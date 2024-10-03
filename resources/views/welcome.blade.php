@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel01.wrexr.com - Test</title>
+    <title>Laravel01.wrexr.com </title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
